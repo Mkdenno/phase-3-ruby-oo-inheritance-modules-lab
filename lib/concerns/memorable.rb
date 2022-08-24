@@ -1,8 +1,10 @@
-module Memorable
-    def count
+# module Memorable
+#     def count
+#   all.count
 
-    end
-    def reset_all
+#     end
+#     def reset_all
+#     all.clear
 
-    end
-end
+#     end
+# end
